@@ -146,6 +146,16 @@ Members who haven't made any non-trivial contribution in two years will be categ
 
 The initial active core team members will consist of everyone currently listed in the "Crystallers" team on Github (access granted for core members only) that have been active in the past two years, and the initial alumni will consist of everyone in that list that have been inactive in the past two years.
 
+## Administrators
+
+Manas.Tech may assign people (Administrators) from outside or inside the Core Team to help with tasks specific to the administration of the project. Administrators may have access to some or all of the repositories in crystal-lang, and they must work to help the Core Team to progress in its tasks. A non-exhaustive list of tasks that Administrators may do:
+
+* Maintain the infrastructure of the project (CI, distribution of binaries, etc.).
+
+* Administrate the assets of the project (donations, web domain, etc.).
+
+* Administrate and utilize the official channels of communication (web page, Twitter account, etc.).
+
 ## Changing this document
 
 Changes to this document require:
